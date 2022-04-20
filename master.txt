@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdasdasd
+=======
+12345
+>>>>>>> master3
